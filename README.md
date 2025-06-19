@@ -47,6 +47,10 @@ Processo Seletivo Itaú Unibanco – Fase 2 (Teste Técnico)
 - **Corretagem**
     - Valor pago a Corretora Itaú por intermediar a operação com a Clearing (B3)
 
+- **Clearing**
+    - É uma câmara de compensação e liquidação que garante a segurança e eficiência das operações financeiras realizadas na B3.
+    - Ela atua como intermediária, reduzindo riscos e assegurando que as transações sejam cumpridas conforme acordado.
+
 ## O que é esperado no teste
 
 Esse teste visa conhecer o potencial de cada um dos concorrentes em:
