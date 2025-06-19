@@ -1,5 +1,7 @@
 # Itaú
 
+[![Tests](https://github.com/ZaqueuCavalcante/itau/actions/workflows/tests.yml/badge.svg)](https://github.com/ZaqueuCavalcante/itau/actions/workflows/tests.yml)
+
 Processo Seletivo Itaú Unibanco – Fase 2 (Teste Técnico)
 
 ## Contexto
