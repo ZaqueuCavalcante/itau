@@ -100,7 +100,7 @@ Tarefas:
 
 Crie uma aplicação em .Net/C# que acesse os dados de operações de um usuário e calcule:
 - O total investido por ativo
-- A posição por papel de um investidor
+- A posição por papel (ativo) de um investidor
 - A posição global de um cliente com lucro ou prejuízo
 - O total de corretagem por cliente
 
